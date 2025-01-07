@@ -61,7 +61,7 @@
     cursor: pointer;
 }
 .tags{
-    width: 50px;
+    width: 15%;
     display: flex;
     margin: 80px auto 0;
     justify-content: space-around;
